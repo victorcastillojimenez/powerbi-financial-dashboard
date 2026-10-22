@@ -23,7 +23,7 @@ Los tres paneles tienen filtros dinámicos (año, mes, ciudad, cliente y tipo de
 
 ## Herramientas
 
-Power BI Desktop · Excel · [Power Query / DAX: confirma cuáles usaste]
+Power BI Desktop · Excel · Power Query / DAX
 
 ## Capturas
 
